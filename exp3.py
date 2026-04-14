@@ -1,2 +1,2 @@
-print("lover boy")
+print("java")
 print("devops")
